@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const HomeBanner = () => {
     return (
 
-        <div className="md:m-20 m-5 ">
+        <div className="md:mt-5 m-5 ">
             <section className="bg-cover bg-center h-screen rounded-3xl" style={{ backgroundImage: 'url(https://wallpapercave.com/dwp1x/wp12765897.jpg)' }}>
                 <div className="bg-black bg-opacity-50 w-full h-full flex flex-col items-center justify-center text-center text-white px-6 rounded-3xl">
                 <img src="https://img.icons8.com/nolan/64/books-1.png" className="bg-white/50 p-4  w-32 rounded-full" />
